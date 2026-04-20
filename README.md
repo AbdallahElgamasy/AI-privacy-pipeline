@@ -1,6 +1,6 @@
 ## Overview
 
-This project implements a **Data Anonymization Orchestrator (DAO)** designed to process and anonymize sensitive data across multiple real-world use cases.
+This project implements a **Data Anonymization Orchestrator (DAO)** designed to process and anonymize sensitive data across multiple use cases.
 
 The system supports different input formats:
 - CSV (Endpoint Management)
