@@ -1,5 +1,3 @@
-# <img width="1024" height="1536" alt="AI Privacy Pipeline" src="https://github.com/user-attachments/assets/9c8ebdce-9071-4501-871f-74a937c24365" /> (Data Anonymization System)
-
 ## Overview
 
 This project implements a **Data Anonymization Orchestrator (DAO)** designed to process and anonymize sensitive data across multiple real-world use cases.
